@@ -2,17 +2,27 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    public int damageToPlayer = 1;
+    public int maxHP = 1;
+    private int currentHP;
 
-    private void OnTriggerEnter2D(Collider2D other)
+    void Start()
     {
-        if (other.CompareTag("Player"))
+        currentHP = maxHP;
+    }
+
+    public void TakeDamage(int damage)
+    {
+        currentHP -= damage;
+        Debug.Log("Enemy HP: " + currentHP);
+
+        if (currentHP <= 0)
         {
-            Health player = other.GetComponent<Health>();
-            if (player != null)
-            {
-                player.TakeDamage(damageToPlayer);
-            }
+            Die();
         }
+    }
+
+    void Die()
+    {
+        Destroy(gameObject);
     }
 }
