@@ -1301,7 +1301,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -1408,7 +1408,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df478c373529404478e577cdd4e2cf46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  next: 
+  next: Credit
 --- !u!1 &295397641
 GameObject:
   m_ObjectHideFlags: 0
@@ -2954,7 +2954,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -3061,7 +3061,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df478c373529404478e577cdd4e2cf46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  next: 
+  next: Credit
 --- !u!1 &585498030
 GameObject:
   m_ObjectHideFlags: 0
@@ -3849,7 +3849,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -3956,7 +3956,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df478c373529404478e577cdd4e2cf46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  next: 
+  next: Credit
 --- !u!1 &729584412
 GameObject:
   m_ObjectHideFlags: 0
@@ -4391,7 +4391,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -4498,7 +4498,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df478c373529404478e577cdd4e2cf46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  next: 
+  next: Credit
 --- !u!1 &834994631
 GameObject:
   m_ObjectHideFlags: 0
@@ -6696,7 +6696,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -6803,7 +6803,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df478c373529404478e577cdd4e2cf46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  next: 
+  next: Credit
 --- !u!1 &1436392465
 GameObject:
   m_ObjectHideFlags: 0
@@ -7024,7 +7024,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -7131,7 +7131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df478c373529404478e577cdd4e2cf46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  next: 
+  next: Credit
 --- !u!1 &1527144806
 GameObject:
   m_ObjectHideFlags: 0
